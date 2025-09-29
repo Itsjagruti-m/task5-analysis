@@ -1,0 +1,11 @@
+OrderID,Date,Region,Category,Product,Quantity,UnitPrice,Sales
+1001,15/01/2025,North,Electronics,Smartphone,2,25000,50000
+1002,17/01/2025,South,Furniture,Office Chair,5,3500,17500
+1003,20/01/2025,East,Clothing,T-Shirt,10,500,5000
+1004,22/01/2025,West,Electronics,Laptop,1,55000,55000
+1005,25/01/2025,North,Furniture,Desk,3,7000,21000
+1006,28/01/2025,South,Clothing,Jacket,4,2000,8000
+1007,01/02/2025,East,Electronics,Tablet,2,18000,36000
+1008,03/02/2025,West,Furniture,Sofa,1,25000,25000
+1009,05/02/2025,North,Clothing,Jeans,6,1200,7200
+1010,07/02/2025,South,Electronics,Smartwatch,3,8000,24000
